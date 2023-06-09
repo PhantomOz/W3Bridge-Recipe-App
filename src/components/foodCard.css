@@ -1,0 +1,12 @@
+.FoodCard {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: left;
+}
+.Container{
+    max-width: 300px;
+    padding: 5px;
+}
